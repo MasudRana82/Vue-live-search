@@ -113,7 +113,7 @@ export default {
             let input = this.search.toLowerCase();
 
             this.fetch()
-            // console.log()
+             // We can do live search two way, one is route and another is vue filter
             //     this.categories = this.tempcategories;
             //     // Use filter to create a new array with categories that match the search term
             //     let filteredCategories = this.categories.filter((category1) => {
